@@ -1,5 +1,9 @@
 # Mini-Project-07
 # Audio-to-Text
 
+
+https://github.com/sailohitaksh-cryptic/Mini-Project-07-Audio-to-Text/assets/74712527/9454eb32-f289-4ea2-8862-77876355bf12
+
+
 ### Output:
 Full text: Day 8. 1. Describing a person. Cool cars. Describe a famous person you would like to meet. You should say who it is. What they are famous for. What you would do if you meet them. And explain why you would like to meet them. Sample answer. Well the person i'd like to meet most of johnny moore. Who is a very famous film director in china. I've always admired him. Is a man of average height in his 40s. So far he has directed many good films. Is well known in china or his versatile talent. First of all he's a famous director. Most of his films have one international prize. And the actresses who have appeared in his films would consequently become popular as well. I like his film the road home. Which describes how a young teacher and a girl. Fell in love. And how they worked and enjoyed their life in a small village. It's really touching with very good photographer. And nice music. In spite of the simple plot. Apart from his direct. He has appeared in many films as the main character. Which always gives people a very deep impression. I clearly remember one film in which he played the role of a terracotta warrior who came back to life and got involved in a love affair with a woman. In recent years instead of depicting the uncivilised and backward life in the country areas. He's made great efforts to publicise chinese culture. One of his famous works is a short documentary assisting china to bid for the 2008 olympic games. It's quite spectacular. He is the kind of person i would really like to me. As he's a very good example of success through unfailing effort perseverance and strength. If i met him i'd like to ask him about how he has succeeded against all odds. I also like to get some advice as to how to achieve self fulfilment as he has done.
